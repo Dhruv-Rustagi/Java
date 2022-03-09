@@ -2,6 +2,8 @@ package Assignment_1;
 import java.io.File;
 import java.util.*;
 
+// Create a java program to search through the home directory and look for files that match a regular expression. The program should be able to take inputs repeatedly and should print out the full absolute path of the matching files found.
+
 public class Assignment_1 {
 
     private void findPath() {

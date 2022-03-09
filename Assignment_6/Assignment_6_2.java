@@ -1,5 +1,7 @@
 package Assignment_6;
 
+// Create a class with two (overloaded) constructors. Using this, call the second constructor inside the first one.
+
 class Power{
     int ans;
     Power(int a)

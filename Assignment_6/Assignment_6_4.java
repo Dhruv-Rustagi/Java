@@ -1,5 +1,7 @@
 package Assignment_6;
 
+// Complete the previous exercise by creating objects to attach to the array of references.
+
 public class Assignment_6_4 {
 
     Assignment_6_4(String str){
