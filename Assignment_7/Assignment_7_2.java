@@ -8,10 +8,6 @@ abstract class Cycle
 
 class Unicycle extends Cycle
 {
-    Unicycle()
-    {
-
-    }
     public void balance()
     {
         System.out.println("balance method in Unicycle");
