@@ -1,6 +1,6 @@
 package Assignment_5;
 
-public class Demo2 {
+class Demo2 {
     String str;
     Demo2(String string)
     {

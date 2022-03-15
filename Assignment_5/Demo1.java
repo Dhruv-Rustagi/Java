@@ -1,6 +1,6 @@
 package Assignment_5;
 
-public class Demo1 {
+class Demo1 {
 
     public int val1;
     char val2;
